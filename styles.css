@@ -92,3 +92,27 @@
     border: none;
     cursor: pointer;
   }
+img:hover{
+    background-color:wheat;
+    text-shadow: 50px;
+    text-shadow: 0rem;
+    
+  
+  }
+  img{
+    width: 10em;
+    height: 5ex;
+    background-color: gold;
+    border: 10px solid firebrick;
+    border-radius: 10px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    
+  }
+  .mainBody{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
